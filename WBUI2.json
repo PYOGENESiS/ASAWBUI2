@@ -49,7 +49,7 @@
       {
         "tab4": {
           "layout": 4,
-          "buttontext": "4 Box layout",
+          "buttontext": "iNFO",
           "title1": "Top left title",
           "title2": "<TextStyle.Green>Top right title</>",
           "title3": "<TextStyle.Blue>bottom left title</>",
