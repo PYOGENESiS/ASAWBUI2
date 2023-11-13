@@ -17,8 +17,8 @@
         "tab1": {
           "layout": 1,
           "buttontext": "<RichColor Color=\"1,0,0,1\">Willkommen</>",
-          "title1": "Welcome to Survival Legends",
-          "text1": "Your text could be here.\n\nBTW, you can add as many tabs/links as you want, just follow the syntax... Until it doesnt fit anymore\n\nCheckout the available predefined colors and the syntax for a colorized and bigger letters for the general text:\n\n<TextStyle.LightBlue><TextStyle.LightBlue>LightBlue Text</></>\n<TextStyle.Red><TextStyle.Red>Red Text</></>\n<TextStyle.Green><TextStyle.Green>Green Text</></>\n<TextStyle.Blue><TextStyle.Blue>Blue Text</></>\n<TextStyle.Yellow><TextStyle.Yellow>Yellow Text</></>\n<TextStyle.Orange><TextStyle.Orange>Orange Text</></>\n<TextStyle.Violet><TextStyle.Violet>Violet Text</></>\n<TextStyle.White><TextStyle.White>White Text</></>\n<TextStyle.Black><TextStyle.Black>Black Text</></> < Yes its Black Text on a Black background\n\nYou can use the ARKML syntax to colorize the titles, normal text and button texts. ARKML uses RGBA values to define the colors. Here are some examples:\n\n<RichColor Color=\"1,0,0,1\"><RichColor Color=\",0,0,1\">Red Text</></>\n<RichColor Color=\"0,1,0,1\"><RichColor Color=\"1,0,0,1\">Green Text</></>\n\nPlease keep in mind that you <TextStyle.Red>NEED TO</> unescape the doublequotes with a backslash!!!",
+          "title1": "Welcome to Survival Legends ASA Cluster",
+          "text1": "<TextStyle.Orange> Vielen Dank, dass Sie sich Survival Legends angeschlossen haben. Wir hoffen, dass Sie eine gute Zeit auf unseren Servern haben</> \n\n\n Bitte lesen Sie die Regeln und treten Sie dem Discord bei, falls Sie dies noch nicht getan haben.\n\n\n Dies ist ein PvE-Server mit Schwerpunkt auf unterhaltsamem Gameplay.\n\n\n\n Server Rates\n ●Experience=1x\n ●Taming=5x\n ●Harvest=3x\n ●Baby Maturation=20x\n ●Egg Incubation=16x\n ●Mating Interval=0.2x\n\n Player Stats\n ●Player Weight=2x\n ●Player Fortitude=2x\n\n Dino Stats\n ●Tamed Dino Stamina PerLvl=1.5x\n ●Tamed Dino Weight PerLvl=1.5x",
           "imageurl": "https://i.imgur.com/Z8y5Hs7.jpg"
         }
       },
@@ -26,8 +26,8 @@
         "tab2": {
           "layout": 2,
           "buttontext": "Regeln|Rules",
-          "title1": "Left title",
-          "title2": "Right title",
+          "title1": "GERMAN",
+          "title2": "ENGLISH",
           "text1": "This text goes into the left box",
           "text2": "This text goes into the right box",
           "imageurl": "https://i.imgur.com/MK3oHdF.jpg"
