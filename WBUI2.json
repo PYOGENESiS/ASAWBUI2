@@ -65,7 +65,7 @@
           "title2": "<TextStyle.Green>Top right title</>",
           "title3": "<TextStyle.Blue>bottom left title</>",
           "title4": "<TextStyle.Yellow>bottom right title</>",
-          "text1": "<TextStyle.Orange>Diese Anleitung zeigt Ihnen, wie Sie Ihre FPS mit diesen einfachen Befehlen verdreifachen oder steigern können:\n
+          "text1": "<TextStyle.Orange> Diese Anleitung zeigt Ihnen, wie Sie Ihre FPS mit diesen einfachen Befehlen verdreifachen oder steigern können:\n
 Geben Sie diesen Befehl in die Befehlsleiste ein. Sie können ihn in der Einstellung unter „Erweitert“ aktivieren.\n Auf der linken Seite müssen Sie „Konsolenzugriff“ aktivieren.\n
 r.VolumetricCloud 0 (dadurch werden Ihre Wolken deaktiviert, aber es sieht immer noch sehr gut aus (20 FPS+))\n
 r.Fog 0 (dadurch wird Ihr Nebel deaktiviert und Ihr Spiel sieht immer noch gut aus)\n
@@ -75,7 +75,7 @@ r.Nanite.MaxPixelsPerEdge 4 (reduziert Dreiecke für Nanit-Netze)\n
 r.Lumen.ScreenProbeGather.RadianceCache.ProbeResolution 16 (optimiert Lumen)\n
 r.DynamicGlobalIlluminationMethod 2 (deaktiviert Lumen)\n
 r.ShadowQuality 0 (deaktiviert alle Schatten)\n
-r.Water.SingleLayer.Reflection 0 (Wasserreflexion deaktivieren)\n</>",
+r.Water.SingleLayer.Reflection 0 (Wasserreflexion deaktivieren)\n </>",
           "text2": "<TextStyle.Violet>This text goes into the top right box</>",
           "text3": "<TextStyle.Red>This text goes into the bottom left box</>",
           "text4": "<TextStyle.White>This text goes into the bottom right box</>",
